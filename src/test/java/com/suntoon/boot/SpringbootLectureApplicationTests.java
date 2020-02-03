@@ -1,4 +1,4 @@
-package com.suntoon.springbootlecture;
+package com.suntoon.boot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.suntoon.springbootlecture.domain;
+package com.suntoon.boot.domain;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package com.suntoon.springbootlecture;
+package com.suntoon.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
