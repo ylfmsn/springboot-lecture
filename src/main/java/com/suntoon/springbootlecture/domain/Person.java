@@ -1,4 +1,4 @@
-package com.suntoon.springbootlecture.entity;
+package com.suntoon.springbootlecture.domain;
 
 public class Person {
 

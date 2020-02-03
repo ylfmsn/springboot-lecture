@@ -1,6 +1,6 @@
 package com.suntoon.springbootlecture.controller;
 
-import com.suntoon.springbootlecture.entity.Person;
+import com.suntoon.springbootlecture.domain.Person;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
