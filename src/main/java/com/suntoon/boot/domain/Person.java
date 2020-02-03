@@ -6,7 +6,7 @@ public class Person {
 
     private String name;
 
-    private String address;
+    private int age;
 
     public int getId() {
         return id;
@@ -24,11 +24,11 @@ public class Person {
         this.name = name;
     }
 
-    public String getAddress() {
-        return address;
+    public int getAge() {
+        return age;
     }
 
-    public void setAddress(String address) {
-        this.address = address;
+    public void setAge(int age) {
+        this.age = age;
     }
 }
